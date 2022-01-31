@@ -1,1 +1,1 @@
-A python script to simulate how blockchain works.
+A python script that simulates how a blockchain works.
